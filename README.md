@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 - 💻 I'm a full-stack developer with a passion for building new applications, solving problems, and years of data analysis experience!
-- 🔭 I’m currently working on an e-commerce web application and learning new technologies such as Typescript, Next.js and more!
+- 🔭 I’m currently working on an e-commerce web application utilizing React.js, Express.js, Node.js, MongoDB, Stripe API, and Fakestore API
 - 📫 Please reach out at: <a href="mailto:bkim95ca@gmail.com">bkim95ca@gmail.com </a>
 
 ### **Frameworks and Libraries**
